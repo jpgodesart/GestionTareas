@@ -1,12 +1,12 @@
-f/*
+/*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
 package net.daw.dao;
 
-import net.daw.bean.AlumnoBean;
+/*import net.daw.bean.AlumnoBean;
 import net.daw.bean.EmpresaBean;
-import net.daw.bean.ProfesorBean;
+import net.daw.bean.ProfesorBean;*/
 import net.daw.bean.UsuarioBean;
 import net.daw.helper.Conexion;
 import net.daw.helper.Enum;
@@ -42,7 +42,7 @@ public class UsuarioDao extends GenericDaoImplementation<UsuarioBean> {
         }
     }
 
-    public UsuarioBean type(UsuarioBean oUsuarioBean) throws Exception {
+   /* public UsuarioBean type(UsuarioBean oUsuarioBean) throws Exception {
 
         try {
             AlumnoDao oAlumnoDao = new AlumnoDao(enumTipoConexion);
@@ -66,7 +66,7 @@ public class UsuarioDao extends GenericDaoImplementation<UsuarioBean> {
             oMysql.desconexion();
         }
         return oUsuarioBean;
-    }
+    }*/
  
     @Override
     public UsuarioBean get(UsuarioBean oUsuarioBean) throws Exception {
