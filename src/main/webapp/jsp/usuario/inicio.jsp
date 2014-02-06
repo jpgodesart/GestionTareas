@@ -1,10 +1,10 @@
 <div class="hero-unit">
-    <h1>Bienvenidos a ajax yield 2014</h1>
-    <h3>Versión (v.01) de 17/1/2014</h3>
-    <h5>Desarrollo de aplicaciones web. CPIFP Ausiàs March. Curso 2013-2014.</h5>    
+    <h1>Gestión de Tareas</h1>
+    <h3>Versión 1</h3>
+    <h5>Desarrollo de aplicaciones web. Juan Pérez Godesart. Curso 2013-2014.</h5>    
 </div>
 <div class="row-fluid">
-    <div class="span8">
+  <!--  <div class="span8">
         <div class="row-fluid">
             <div class="span6">
                 <h3>¿Qué es ajax stock?</h3>
@@ -35,7 +35,7 @@
             </div>
 
         </div>
-    </div>
+    </div> 
     <div class="span4">
         <h3>¿Cuáles son sus características?</h3>
         <ul>
@@ -71,4 +71,4 @@
         SEGOVIA LEÓN, JACOBO -
         TAMARIT MARTÍNEZ, SALVADOR 
     </div>
-</div>
+</div>-->
